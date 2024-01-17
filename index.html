@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>에티의 회의 기록</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div id="timer">00:00:00</div> <!-- 타이머 -->
+        <button id="startButton">회의 시작 🟢</button>
+        <button id="stopButton" disabled>회의 종료 ⚫</button>
+        <div id="meetingStatus"></div>        
+        <textarea id="fullText" placeholder="여기에 회의록이 저장됩니다..." rows="20"></textarea>
+        <textarea id="transcription" placeholder="음성 인식 내용..." rows="5"></textarea>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
