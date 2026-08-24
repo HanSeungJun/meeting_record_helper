@@ -4,7 +4,7 @@
 
 **▶ [데모 영상](https://youtu.be/fdBgJYRKUAs)**
 
-![실행 화면](https://github.com/HanSeungJun/meeting_record_helper/assets/81555330/2a34d114-11ae-424b-9a0e-227ac5d5c126)
+![실행 화면](docs/screenshot.png)
 
 ---
 
